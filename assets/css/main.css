@@ -785,7 +785,7 @@ section,
 .hero .hero-visual .profile-container {
   position: relative;
   width: 400px;
-  height: 400px;
+  height: 540px;
 }
 
 .hero .hero-visual .profile-container .profile-background {
@@ -1361,8 +1361,6 @@ section,
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 50px;
-  height: 2px;
   background-color: var(--accent-color);
 }
 
