@@ -253,4 +253,7 @@ const swiper = new Swiper('.portfolio-details-slider', {
 
 
 
+
+
+
 })();
